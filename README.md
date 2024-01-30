@@ -2,7 +2,7 @@
 
 ## Things I am
 - a researcher working on Hybrid Electric Vehicles with a soft spot for optimal control
-- a PhD student in Energy Engineering @ PoliTo
+- a Research Fellow at the Department of Energy @ PoliTo
 - the developer of DynaProg [![View DynaProg on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://it.mathworks.com/matlabcentral/fileexchange/84260-dynaprog)
 
 ## DynaProg
